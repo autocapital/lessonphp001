@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cb6b6629-76c2-4cfc-8f5f-86a1e7645868" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Newfilephp001.php" beforeDir="false" afterPath="$PROJECT_DIR$/Newfilephp001.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Newfilephp001.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
+            <state relative-caret-position="219">
+              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -88,12 +89,12 @@
       <command value="git add Newfilephp001.php" />
       <command value="git ls" />
       <command value="git fetch" />
-      <command value="git pull" />
-      <command value="git push" />
       <command value="git diff" />
       <command value="git checkout Newfilephp001.php" />
       <command value="git restore --staged Newfilephp001.php" />
       <command value="git status" />
+      <command value="git pull" />
+      <command value="git push" />
     </option>
   </component>
   <component name="RunDashboard">
@@ -129,7 +130,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569758717344</updated>
-      <workItem from="1569758718569" duration="4073000" />
+      <workItem from="1569758718569" duration="5529000" />
     </task>
     <task id="LOCAL-00001" summary="My first code">
       <created>1569758915121</created>
@@ -166,11 +167,25 @@
       <option name="project" value="LOCAL" />
       <updated>1569762569953</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Пытался оставить изменения">
+      <created>1569762882388</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569762882388</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Принцип работы оператора DO">
+      <created>1569765599302</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1569765599302</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4073000" />
+    <option name="totallyTimeSpent" value="5529000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -183,6 +198,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
@@ -226,14 +242,16 @@
     <MESSAGE value="My first code" />
     <MESSAGE value="Выдаю на печать привет всем" />
     <MESSAGE value="Добавил имя и фамилию в коде" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавил имя и фамилию в коде" />
+    <MESSAGE value="Пытался оставить изменения" />
+    <MESSAGE value="Принцип работы оператора DO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Принцип работы оператора DO" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Newfilephp001.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        <state relative-caret-position="219">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
         </state>
       </provider>
     </entry>
