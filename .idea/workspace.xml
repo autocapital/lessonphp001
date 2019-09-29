@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb6b6629-76c2-4cfc-8f5f-86a1e7645868" name="Default Changelist" comment="Выдаю на печать привет всем">
+    <list default="true" id="cb6b6629-76c2-4cfc-8f5f-86a1e7645868" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Newfilephp001.php" beforeDir="false" afterPath="$PROJECT_DIR$/Newfilephp001.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +19,11 @@
     <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Newfilephp001.php">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="1" selection-start-column="1" selection-end-column="1" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -80,16 +83,17 @@
       <command value="git list" />
       <command value="ls" />
       <command value="cat Newfilephp001.php" />
-      <command value="git restore --staged Newfilephp001.php" />
       <command value="git add .ides/workspace.xml" />
       <command value="git add .idea/workspace.xml" />
       <command value="git add Newfilephp001.php" />
-      <command value="git status" />
-      <command value="git push" />
       <command value="git ls" />
       <command value="git fetch" />
       <command value="git pull" />
+      <command value="git push" />
       <command value="git diff" />
+      <command value="git checkout Newfilephp001.php" />
+      <command value="git restore --staged Newfilephp001.php" />
+      <command value="git status" />
     </option>
   </component>
   <component name="RunDashboard">
@@ -125,7 +129,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569758717344</updated>
-      <workItem from="1569758718569" duration="3671000" />
+      <workItem from="1569758718569" duration="4073000" />
     </task>
     <task id="LOCAL-00001" summary="My first code">
       <created>1569758915121</created>
@@ -148,11 +152,25 @@
       <option name="project" value="LOCAL" />
       <updated>1569760411825</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Добавил имя и фамилию в коде">
+      <created>1569762468801</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569762468801</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Добавил имя и фамилию в коде">
+      <created>1569762569953</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1569762569953</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3671000" />
+    <option name="totallyTimeSpent" value="4073000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -165,7 +183,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
@@ -175,10 +192,10 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" weight="0.32843137" />
       <window_info anchor="bottom" id="Terminal" weight="0.32843137" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50075644" side_tool="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50075644" side_tool="true" weight="0.3480392" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3480392" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.3480392" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -208,12 +225,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My first code" />
     <MESSAGE value="Выдаю на печать привет всем" />
-    <option name="LAST_COMMIT_MESSAGE" value="Выдаю на печать привет всем" />
+    <MESSAGE value="Добавил имя и фамилию в коде" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил имя и фамилию в коде" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Newfilephp001.php">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
